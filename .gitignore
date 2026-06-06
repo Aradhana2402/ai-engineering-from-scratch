@@ -53,3 +53,7 @@ mlruns/
 *.bin
 *.h5
 .gstack/
+# Model checkpoints
+*.pt
+*.pth
+*.safetensors
